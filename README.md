@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/maxchaston?theme=dark&font=Ubuntu%20Mono)
 <!--
 **maxchaston/maxchaston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
